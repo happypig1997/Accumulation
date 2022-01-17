@@ -1,4 +1,5 @@
 # Accumulation
+Construct systematic knowledge framework and iterate.
 
 CS229(ml) 
 
