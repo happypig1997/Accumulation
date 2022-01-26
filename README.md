@@ -22,4 +22,4 @@ CS224n(nlp)
 
 [阿里云天池大赛](https://tianchi.aliyun.com/specials/promotion/bookcode)
 
-数学方面 矩阵微积分 有点拉胯
+数学方面 矩阵微积分/矩阵论 有点拉胯
